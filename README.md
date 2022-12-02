@@ -1,5 +1,5 @@
 # python-projects
-# To select the random passward 
+# To select the random password 
 
 import random
 import string
